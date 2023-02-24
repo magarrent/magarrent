@@ -6,7 +6,13 @@ Some of my GitHub stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magarrent&layout=compact)](https://github.com/magarrent)
 
 
-🔭 I’m currently working on Laravel & Vue projects, for Magarrent and Kodio Technologies
-💬 We can talk when you want :)
+🥇 Founder Kodio.tech
 
-⚡ Fun fact: I love pizza 
+🖥️ Working on =>  TweetStorm.ai & smallness.io
+
+ActionForms.io (Acquired)
+WebsiteForDjs (Acquired)
+
+🚀  SaaS projects
+
+Laravel & Pizza lover
