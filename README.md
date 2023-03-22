@@ -8,7 +8,7 @@ Some of my GitHub stats:
 
 🥇 Founder Kodio.tech
 
-🖥️ Working on =>  TweetStorm.ai & smallness.io
+🖥️  Currently DocuWriter.ai | TweetStorm.ai
 
 ActionForms.io (Acquired)
 WebsiteForDjs (Acquired)
