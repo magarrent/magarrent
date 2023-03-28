@@ -6,13 +6,9 @@ Some of my GitHub stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magarrent&layout=compact)](https://github.com/magarrent)
 
 
-🥇 Founder Kodio.tech
+🏆 Founder Kodio.tech
 
-🖥️  Currently DocuWriter.ai | TweetStorm.ai
-
-ActionForms.io (Acquired)
-WebsiteForDjs (Acquired)
-
-🚀  SaaS projects
-
-Laravel & Pizza lover
+🖥️ Creating magic at DocuWriter.ai & TweetStorm.ai
+💼 Sold  @actionforms__io & WebsiteForDjs
+💡 Laravel & SaaS enthusiast
+🍕 Pizza lover
