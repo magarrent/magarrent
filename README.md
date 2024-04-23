@@ -8,9 +8,7 @@ Some of my GitHub stats:
 
 🏆 Founder Kodio.tech
 
-🖥️ Creating magic at DocuWriter.ai & TweetStorm.ai
-
-💼 Sold  @actionforms__io & WebsiteForDjs
+💚 Creating magic at [DocuWriter.ai](https://www.docuwriter.ai/)
 
 💡 Laravel & SaaS enthusiast
 
